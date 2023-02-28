@@ -3,10 +3,6 @@ package kr.ac.hansung.cse;
 import kr.ac.hansung.cse.animals.PetOwner;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
-/**
- * Hello world!
- *
- */
 public class App 
 {
     public static void main(String[] args) {
